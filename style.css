@@ -40,7 +40,7 @@ footer {
   animation-iteration-count: infinite;
   animation-name: gradient;
   animation-duration: 4s;
-  outline: none;
+    outline: none;
 }
 
 #generator:hover {
